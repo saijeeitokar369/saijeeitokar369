@@ -1,50 +1,19 @@
-# 👩‍💻 My Learning Journey in Programming
+# 💫 About Me:
+I am saijee itokar, a Bachelor of Technology (B.Tech) CSE (Data Analytics) student, focused on developing strong programming and data analysis skills to solve real-world problems.
 
-Welcome to my GitHub!  
-I’m a **B.Tech student** passionate about technology and learning programming languages like **C, Python, HTML, and CSS**.  
-This repository is a collection of my practice projects, notes, and experiments as I continue to grow as a developer. 🌱
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bluedreamer369?igsh=cWR5YmhjNmpxcWxh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saijee-itokar-885490381?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saijeeitokar509@gmail.com) 
 
-## 📚 About
-This project showcases my progress as I learn:
-- **C Programming** — to understand logic building and problem-solving.
-- **Python** — for automation, data handling, and application development.
-- **HTML & CSS** — for designing and styling web pages.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-My goal is to become a **skilled software developer** who writes clean, efficient, and creative code.
-
----
-
-## 🚀 What You’ll Find Here
-- Mini projects and assignments in C and Python  
-- Basic web pages made using HTML and CSS  
-- Practice programs with explanations  
-- Learning notes and examples  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adarshthakurwork620-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adarshthakurwork620-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshthakurwork620-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=adarshthakurwork620-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Skills I’m Learning
-| Language | Description |
-|-----------|--------------|
-| 🅲 C | Strong foundation in programming logic |
-| 🐍 Python | High-level programming and problem solving |
-| 🌐 HTML | Structure of web pages |
-| 🎨 CSS | Styling and layout design |
-
----
-
-## 🛠️ Tools I Use
-- Visual Studio Code  
-- GCC Compiler (for C)  
-- Git & GitHub  
-
----
-
-## 🧠 My Goals
-- Strengthen programming fundamentals  
-- Build small but useful projects  
-- Learn version control using Git and GitHub  
-- Collaborate on open-source projects in the future  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
