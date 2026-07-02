@@ -1,72 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saijee+Itokar" alt="Typing Animation"/>
-</h1>
+<div align="center">
 
-<h3 align="center">
-A Bachelor of Technology (B.Tech) CSE (Data Analytics) student passionate about programming, data analytics, and solving real-world problems through technology.
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Saijee+Itokar;B.Tech+CSE+(Data+Analytics)+Student;Python+Developer;AI+%26+Data+Analytics+Enthusiast;Welcome+to+My+GitHub!+🚀" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saijeeitokar369&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+### 🎓 B.Tech CSE (Data Analytics) Student
+### 💻 Passionate about Programming • Data Analytics • Artificial Intelligence
+
+![](https://komarev.com/ghpvc/?username=saijeeitokar369&style=for-the-badge&color=0E75B6)
+
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-### 👋 Who Am I?
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212897782-96581592-6f0c-4f6d-8b5d-2b0e7b6d4d4f.gif"/>
 
-I'm **Saijee Itokar**, a **B.Tech CSE (Data Analytics)** student at **SAGE University, Bhopal**.
+🎓 I'm **Saijee Itokar**, pursuing **B.Tech in Computer Science & Engineering (Data Analytics)** at **SAGE University, Bhopal**.
 
-I enjoy learning new technologies and building projects that solve real-world problems through programming and data analytics.
+💡 I enjoy transforming ideas into real-world projects through programming and data-driven solutions.
 
-Currently, I am working on **Image-Based Crop Disease Detection**, where I explore Artificial Intelligence and Machine Learning to support smart agriculture.
+🌱 My interests include **Python, Artificial Intelligence, Data Analytics, Machine Learning, and Web Development**.
+
+🔬 I'm currently working on **Image-Based Crop Disease Detection**, exploring how Artificial Intelligence can support smart agriculture.
+
+🎯 My goal is to become a skilled **Data Analyst / AI Engineer** by continuously learning and building impactful projects.
+
+<br clear="right"/>
 
 ---
 
 # 📌 Quick Facts
 
-| 🎓 University | SAGE University, Bhopal |
-|--------------|--------------------------|
-| 📚 Degree | B.Tech CSE (Data Analytics) |
-| 📍 Location | Bhopal, Madhya Pradesh, India |
-| 🌱 Currently Learning | C, C++, Python, JavaScript, Artificial Intelligence, Data Analytics |
-| 💻 Ask Me About | C, C++, Python, JavaScript, Artificial Intelligence, Data Analytics |
-| 🔬 Research | Image-Based Crop Disease Detection |
-| 💼 Looking For | Internship & Collaboration |
-| 📧 Email | **saijeeitokar509@gmail.com** |
+| 📍 | Information |
+|:---|:------------|
+| 🎓 **University** | SAGE University, Bhopal |
+| 📚 **Degree** | B.Tech CSE (Data Analytics) |
+| 🌍 **Location** | Bhopal, Madhya Pradesh, India |
+| 🌱 **Currently Learning** | C • C++ • Python • JavaScript • Artificial Intelligence • Data Analytics |
+| 💬 **Ask Me About** | C • C++ • Python • JavaScript • Artificial Intelligence • Data Analytics |
+| 🔬 **Research** | Image-Based Crop Disease Detection |
+| 💼 **Open To** | Internship & Collaboration |
+| 📧 **Email** | **saijeeitokar509@gmail.com** |
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-- 🔭 Research on **Image-Based Crop Disease Detection**
-- 🌱 Learning **Python** and **JavaScript**
-- 📊 Exploring **Data Analytics**
-- 🤖 Learning **Machine Learning**
-- 💡 Building Real-World Projects
+- 🌿 Research on **Image-Based Crop Disease Detection**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Strengthening **Data Analytics** skills
+- 💻 Building real-world projects
+- 📚 Improving problem-solving and programming skills
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Programming Languages
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
-## 🌐 Frontend
+### 🌐 Web Development
 
 <p align="center">
 
@@ -76,7 +82,7 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 
 </p>
 
-## 📊 Data Analytics
+### 📊 Data Analytics & AI
 
 <p align="center">
 
@@ -90,7 +96,7 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 
 </p>
 
-## ⚙️ Tools
+### ⚙️ Tools
 
 <p align="center">
 
@@ -104,22 +110,21 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saijeeitokar369&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saijeeitokar369&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=saijeeitokar369&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=saijeeitokar369&theme=tokyonight&hide_border=true"/>
 
-</p>
-
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/saijee-itokar-885490381/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -133,14 +138,16 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-⭐ <i>"Transforming Data into Insights, and Ideas into Reality."</i> ⭐
-</h3>
-</p>
+<div align="center">
 
----
+## 💡 Quote of the Day
 
+> **"Turning data into decisions, ideas into innovation, and challenges into opportunities."**
+
+⭐ *Thank you for visiting my profile! Feel free to connect and collaborate.*
+
+</div>
