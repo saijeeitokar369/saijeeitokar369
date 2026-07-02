@@ -30,8 +30,8 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 |--------------|--------------------------|
 | 📚 Degree | B.Tech CSE (Data Analytics) |
 | 📍 Location | Bhopal, Madhya Pradesh, India |
-| 🌱 Currently Learning | Python, JavaScript |
-| 💻 Ask Me About | Python, JavaScript |
+| 🌱 Currently Learning | C, C++, Python, JavaScript, Artificial Intelligence, Data Analytics |
+| 💻 Ask Me About | C, C++, Python, JavaScript, Artificial Intelligence, Data Analytics |
 | 🔬 Research | Image-Based Crop Disease Detection |
 | 💼 Looking For | Internship & Collaboration |
 | 📧 Email | **saijeeitokar509@gmail.com** |
