@@ -114,15 +114,6 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 
 </p>
 
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=github-compact"/>
-
-</p>
 
 ---
 
