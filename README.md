@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=1200&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Saijee+Itokar;B.Tech+CSE+(Data+Analytics)+Student;Python+Developer;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!+🚀" alt="Typing SVG"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saijee+Itokar" alt="Typing Animation"/>
+</h1>
 
 <h3 align="center">
 A Bachelor of Technology (B.Tech) CSE (Data Analytics) student passionate about programming, data analytics, and solving real-world problems through technology.
@@ -18,21 +18,21 @@ A Bachelor of Technology (B.Tech) CSE (Data Analytics) student passionate about 
 
 I'm **Saijee Itokar**, a **B.Tech CSE (Data Analytics)** student at **SAGE University, Bhopal**.
 
-I enjoy learning new technologies and building projects that solve practical problems. My interests lie in **Python, Data Analytics, Machine Learning, Web Development**, and exploring how data can create meaningful insights.
+I enjoy learning new technologies and building projects that solve real-world problems through programming and data analytics.
 
-Currently, I'm working on a research project focused on **Image-Based Crop Disease Detection** using Artificial Intelligence and Machine Learning.
+Currently, I am working on **Image-Based Crop Disease Detection**, where I explore Artificial Intelligence and Machine Learning to support smart agriculture.
 
 ---
 
 # 📌 Quick Facts
 
 | 🎓 University | SAGE University, Bhopal |
-|--------------|-------------------------|
+|--------------|--------------------------|
 | 📚 Degree | B.Tech CSE (Data Analytics) |
 | 📍 Location | Bhopal, Madhya Pradesh, India |
 | 🌱 Currently Learning | Python, JavaScript |
-| 🔬 Research | Image-Based Crop Disease Detection |
 | 💻 Ask Me About | Python, JavaScript |
+| 🔬 Research | Image-Based Crop Disease Detection |
 | 💼 Looking For | Internship & Collaboration |
 | 📧 Email | **saijeeitokar509@gmail.com** |
 
@@ -41,10 +41,10 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 # 🚀 Current Focus
 
 - 🔭 Research on **Image-Based Crop Disease Detection**
-- 🌱 Learning **Python & JavaScript**
-- 📚 Exploring **Machine Learning & Data Analytics**
+- 🌱 Learning **Python** and **JavaScript**
+- 📊 Exploring **Data Analytics**
+- 🤖 Learning **Machine Learning**
 - 💡 Building Real-World Projects
-- 🎯 Looking for Internship Opportunities
 
 ---
 
@@ -66,8 +66,6 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 
 </p>
 
----
-
 ## 🌐 Frontend
 
 <p align="center">
@@ -77,8 +75,6 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
-
----
 
 ## 📊 Data Analytics
 
@@ -93,8 +89,6 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 <img src="https://img.shields.io/badge/Seaborn-5B8DB8?style=for-the-badge"/>
 
 </p>
-
----
 
 ## ⚙️ Tools
 
@@ -122,31 +116,11 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saijeeitokar369&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saijeeitokar369&theme=algolia&margin-w=15"/>
-
-</p>
-
----
-
 # 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=github-compact"/>
 
 </p>
 
@@ -168,6 +142,13 @@ Currently, I'm working on a research project focused on **Image-Based Crop Disea
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<h3 align="center">
+⭐ <i>"Transforming Data into Insights, and Ideas into Reality."</i> ⭐
+</h3>
 </p>
 
 ---
