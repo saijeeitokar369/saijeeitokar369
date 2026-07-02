@@ -153,8 +153,3 @@ Currently, I am working on **Image-Based Crop Disease Detection**, where I explo
 
 ---
 
-<p align="center">
-
-### ⭐ *"Transforming Data into Insights, and Ideas into Reality."* ⭐
-
-</p>
