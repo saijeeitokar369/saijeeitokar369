@@ -53,7 +53,7 @@ I believe in **continuous learning**, **building meaningful projects**, and impr
 
 | 🌱 Learning | 🚀 Building | 🎯 Goal |
 |:------------|:-----------|:---------|
-| C • C++ • Python • JavaScript | Portfolio Website • Data Analytics Projects | Internship in Data Analytics / AI |
+| Power BI • Data Analytics • Python • SQL | Portfolio Website • Data Analytics Projects | Internship in Data Analytics / AI |
 
 </div>
 
