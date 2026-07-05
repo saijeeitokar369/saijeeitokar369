@@ -172,41 +172,9 @@ I believe in **continuous learning**, **building meaningful projects**, and impr
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 💻 Project | 📖 Description |
-|------------|----------------|
-| 🌿 **Image-Based Crop Disease Detection** | AI-powered research project for detecting plant diseases using image processing and machine learning. |
-| 🌐 **Personal Portfolio Website** | A responsive portfolio built with HTML, CSS, and JavaScript. |
-| 📊 **Python for Data Analytics** | Python programs using Pandas, NumPy, Matplotlib, and Seaborn. |
-| 💻 **C Programming Practice** | Collection of C programs covering basics to intermediate concepts. |
-| 🤖 **Machine Learning Projects** | Coming Soon... 🚀 |
-
-</div>
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-🥇 B.Tech CSE (Data Analytics) Student
-
-🌱 Passionate Learner
-
-💻 Open Source Beginner
-
-📊 Data Analytics Enthusiast
-
-🤖 AI Explorer
-
-🚀 Building Projects Consistently
-
-</div>
-
----
 
 # 📚 Learning Journey
 
@@ -222,23 +190,6 @@ JavaScript             ██████░░░░░░ 60%
 Data Analytics         ███████░░░░░ 65%
 
 Artificial Intelligence █████░░░░░░ 50%
-```
-
----
-
-# 🎯 Goals for 2026
-
-✅ Build 15+ Quality GitHub Projects
-
-✅ Master Python & Data Analytics
-
-✅ Learn Machine Learning
-
-✅ Contribute to Open Source
-
-✅ Secure a Data Analytics / AI Internship
-
-✅ Become Interview Ready
 
 ---
 
