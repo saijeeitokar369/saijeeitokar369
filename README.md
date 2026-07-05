@@ -241,25 +241,6 @@ Artificial Intelligence █████░░░░░░ 50%
 ✅ Become Interview Ready
 
 ---
-# 📜 Certifications
-
-> *I'm continuously improving my skills through learning, projects, and certifications.*
-
-<div align="center">
-
-| 📚 Learning Journey |
-|---------------------|
-| 🟢 C Programming |
-| 🟢 C++ |
-| 🟢 Python |
-| 🟢 JavaScript |
-| 🟢 Data Analytics |
-| 🟢 Artificial Intelligence |
-| 🟢 Machine Learning *(Learning)* |
-
-</div>
-
----
 
 # 💜 Fun Facts
 
