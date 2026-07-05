@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;B.Tech+CSE+(Data+Analytics)+Student;Aspiring+Data+Analyst;Artificial+Intelligence+Learner;Passionate+About+Programming;Welcome+to+My+GitHub!+🚀" />
+
 # 👋 Welcome to My GitHub Profile
 
 ### 💻 Turning Curiosity into Code and Data into Meaningful Insights
