@@ -150,17 +150,6 @@ I believe in **continuous learning**, **building meaningful projects**, and impr
 - 🔍 Research in Smart Agriculture
 
 ---
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saijeeitokar369&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=saijeeitokar369&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
