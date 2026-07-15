@@ -95,16 +95,6 @@ B.Tech CSE (Data Analytics) Student | Python Developer | Data Analytics Enthusia
 
 # 🚀 Featured Projects
 
-⭐ Python Workshop
-
-⭐ Python & NumPy Workshop
-
-⭐ C Language Programs
-
-⭐ C++ Programs
-
-⭐ DSA Practice Programs
-
 ⭐ Apna Mart Grocery Website
 
 ⭐ Theme Clock
@@ -121,11 +111,6 @@ B.Tech CSE (Data Analytics) Student | Python Developer | Data Analytics Enthusia
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saijeeitokar369&layout=compact&theme=tokyonight)
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=saijeeitokar369&theme=algolia&no-frame=false&margin-w=10)
 
 ---
 
