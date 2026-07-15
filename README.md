@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-💻 B.Tech CSE (Data Analytics) Student | Python Developer | Data Analytics Enthusiast | Open Source Learner
+💻 B.Tech CSE (Data Analytics) Student | Data Analytics Enthusiast | Open Source Learner
 </h3>
 
 <p align="center">
