@@ -72,9 +72,6 @@ Goal :
 | 🛒 **Apna Mart Grocery** | Grocery Shopping Website using HTML, CSS & JavaScript |
 | 🌐 **Portfolio Website** | Personal Portfolio showcasing skills & projects |
 | ⏰ **Theme Clock** | Analog & Digital Theme Clock |
-| 🐍 **Python Workshop** | Python practice programs and mini projects |
-| 📊 **Python & NumPy Workshop** | NumPy concepts and hands-on exercises |
-| 💻 **DSA Practice Programs** | Data Structures & Algorithms in C++ |
 
 ---
 
@@ -102,11 +99,6 @@ Goal :
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=saijeeitokar369&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
 
 # 📌 Repository Highlights
 
