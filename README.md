@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Saijee+Itokar;Python+Developer+%F0%9F%90%8D;Data+Analytics+Enthusiast+%F0%9F%93%8A;B.Tech+CSE+(Data+Analytics)+Student;Learning+DSA+%26+Open+Source;Future+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;Aspiring+Data+Analyst+📊;B.Tech+CSE+(Data+Analytics)+Student;Learning+Python+%26+Data+Analytics;Open+Source+Learner;Future+Data+Analyst+🚀" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-💻 B.Tech CSE (Data Analytics) Student | Data Analytics Enthusiast | Open Source Learner
+💻 B.Tech CSE (Data Analytics) Student | 📊 Aspiring Data Analyst | 🌱 Open Source Learner
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/saijee-itokar-885490381">
+  <a href="https://www.linkedin.com/in/saijee-itokar-885490381">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:saijeeitokar509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -23,28 +24,53 @@
 Name        : Saijee Itokar
 Education   : B.Tech CSE (Data Analytics)
 Location    : Bhopal, Madhya Pradesh, India 🇮🇳
+
 Currently Learning :
   - Python
   - NumPy
   - Pandas
   - SQL
   - Power BI
+  - Matplotlib
+  - Seaborn
   - Data Visualization
   - DSA
+
 Goal :
-  Become a Software Developer & Data Analyst
+  Become a Data Analyst specializing in Python,
+  SQL, Power BI and Data Visualization.
 ```
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Currently Working On
 
-- 🐍 Python Projects
-- 📊 Data Analytics
-- 📈 NumPy & Pandas
-- 💻 DSA in C++
-- 🌐 Web Development
-- ⚡ Open Source Learning
+## 🌾 Crop Disease Analysis & Detection System
+
+An end-to-end Data Analytics project focused on analyzing crop diseases and generating actionable insights using Python and Power BI.
+
+### 🔍 Project Highlights
+
+- 🌱 Crop Disease Detection & Analysis
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 📉 Statistical Analysis
+- 📊 Interactive Power BI Dashboard
+- 🤖 Disease Trend Analysis
+- 🌾 Data-driven Agricultural Insights
+
+### 🛠 Technologies Used
+
+- 🐍 Python
+- 📊 NumPy
+- 🐼 Pandas
+- 📉 Matplotlib
+- 🎨 Seaborn
+- 📈 Power BI
+
+### 🎯 Project Goal
+
+To analyze agricultural datasets, identify crop disease trends, visualize insights through interactive dashboards, and support data-driven decision-making for smarter farming.
 
 ---
 
@@ -57,11 +83,29 @@ Goal :
 <br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 </p>
+
+---
+
+# 📊 Data Analytics Toolkit
+
+| Category | Tools |
+|----------|-------|
+| Programming | Python |
+| Libraries | NumPy, Pandas, Matplotlib, Seaborn |
+| Visualization | Power BI, Matplotlib |
+| Database | SQL (Learning) |
+| Version Control | Git & GitHub |
+| IDE | VS Code, Jupyter Notebook |
 
 ---
 
@@ -69,9 +113,10 @@ Goal :
 
 | 🚀 Project | 📄 Description |
 |------------|----------------|
-| 🛒 **Apna Mart Grocery** | Grocery Shopping Website using HTML, CSS & JavaScript |
-| 🌐 **Portfolio Website** | Personal Portfolio showcasing skills & projects |
-| ⏰ **Theme Clock** | Analog & Digital Theme Clock |
+| 🌾 Crop Disease Analysis & Detection | Python, Pandas, NumPy, Seaborn & Power BI Dashboard |
+| 🛒 Apna Mart Grocery Website | Grocery Shopping Website using HTML, CSS & JavaScript |
+| 🌐 Portfolio Website | Personal Portfolio showcasing skills and projects |
+| ⏰ Theme Clock | Analog & Digital Theme Clock using JavaScript |
 
 ---
 
@@ -95,10 +140,9 @@ Goal :
 
 # 📈 GitHub Contribution Graph
 
-[![Saijee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saijee's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 
 # 📌 Repository Highlights
 
@@ -117,27 +161,31 @@ Goal :
 
 # 📚 Currently Learning
 
-- Python Advanced Concepts
-- NumPy
-- Pandas
-- SQL
-- Power BI
-- Machine Learning Basics
-- Data Visualization
-- Git & GitHub
+- 🐍 Python Programming
+- 📊 NumPy
+- 🐼 Pandas
+- 📈 Matplotlib
+- 🎨 Seaborn
+- 🗄 SQL
+- 📊 Power BI
+- 📉 Data Visualization
+- 📚 Data Analytics
+- 💻 DSA using C++
+- 🌱 Git & GitHub
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master Python
-- ✅ Build 25+ Projects
-- ✅ Strengthen DSA
-- ✅ Learn SQL
-- ✅ Learn Power BI
+- ✅ Become proficient in Python for Data Analytics
+- ✅ Master NumPy & Pandas
+- ✅ Learn Advanced SQL
+- ✅ Build Interactive Power BI Dashboards
+- ✅ Complete 25+ Data Analytics Projects
+- ✅ Strengthen DSA using C++
 - ✅ Contribute to Open Source
-- ✅ Build an Amazing Portfolio
-- ✅ Secure a Software/Data Analytics Internship
+- ✅ Build a Professional Portfolio
+- ✅ Secure a Data Analyst Internship
 
 ---
 
@@ -153,7 +201,7 @@ Goal :
 
 # 💡 Quote
 
-> **"Code • Learn • Build • Improve • Repeat 🚀"**
+> **"Turning data into insights, and insights into impact." 📊**
 
 ---
 
