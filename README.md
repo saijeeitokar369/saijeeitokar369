@@ -1,86 +1,65 @@
+# 🚀 GitHub Profile README
+
+```markdown
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;Aspiring+Data+Analyst+📊;B.Tech+CSE+(Data+Analytics)+Student;Learning+Python+%26+Data+Analytics;Open+Source+Learner;Future+Data+Analyst+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;Data+Analytics+Student+📊;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Projects;Open+Source+Learner+🚀" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-💻 B.Tech CSE (Data Analytics) Student | 📊 Aspiring Data Analyst | 🌱 Open Source Learner
+🎓 B.Tech CSE (Data Analytics) Student | 📊 Data Analytics Enthusiast | 🌱 Open Source Learner
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saijee-itokar-885490381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:saijeeitokar509@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/saijee-itokar-885490381">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saijeeitokar509@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-```yaml
-Name        : Saijee Itokar
-Education   : B.Tech CSE (Data Analytics)
-Location    : Bhopal, Madhya Pradesh, India 🇮🇳
+🎓 **B.Tech CSE (Data Analytics) Student**
 
-Currently Learning :
-  - Python
-  - NumPy
-  - Pandas
-  - SQL
-  - Power BI
-  - Matplotlib
-  - Seaborn
-  - Data Visualization
-  - DSA
+📍 **Bhopal, Madhya Pradesh, India 🇮🇳**
 
-Goal :
-  Become a Data Analyst specializing in Python,
-  SQL, Power BI and Data Visualization.
-```
+📊 Passionate about **Data Analytics, Business Intelligence, and Data Visualization.**
 
----
+🐍 I enjoy analyzing data, building dashboards, solving programming problems, and creating projects that transform raw data into meaningful insights.
 
-# 🚀 Currently Working On
+🌱 **Currently Learning**
 
-## 🌾 Crop Disease Analysis & Detection System
+- Python
+- SQL
+- Power BI
+- Data Visualization
+- NumPy
+- Pandas
+- DSA
 
-An end-to-end Data Analytics project focused on analyzing crop diseases and generating actionable insights using Python and Power BI.
+🎯 **Career Goal**
 
-### 🔍 Project Highlights
-
-- 🌱 Crop Disease Detection & Analysis
-- 📊 Data Cleaning & Preprocessing
-- 📈 Exploratory Data Analysis (EDA)
-- 📉 Statistical Analysis
-- 📊 Interactive Power BI Dashboard
-- 🤖 Disease Trend Analysis
-- 🌾 Data-driven Agricultural Insights
-
-### 🛠 Technologies Used
-
-- 🐍 Python
-- 📊 NumPy
-- 🐼 Pandas
-- 📉 Matplotlib
-- 🎨 Seaborn
-- 📈 Power BI
-
-### 🎯 Project Goal
-
-To analyze agricultural datasets, identify crop disease trends, visualize insights through interactive dashboards, and support data-driven decision-making for smarter farming.
+Become a **Data Analyst** who helps organizations make data-driven decisions through analytics and visualization.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode"/>
+### 📊 Data Analytics
 
-<br><br>
+<p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
@@ -90,33 +69,49 @@ To analyze agricultural datasets, identify crop disease trends, visualize insigh
 
 <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 </p>
 
----
+### 🛠 Tools
 
-# 📊 Data Analytics Toolkit
-
-| Category | Tools |
-|----------|-------|
-| Programming | Python |
-| Libraries | NumPy, Pandas, Matplotlib, Seaborn |
-| Visualization | Power BI, Matplotlib |
-| Database | SQL (Learning) |
-| Version Control | Git & GitHub |
-| IDE | VS Code, Jupyter Notebook |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 📄 Description |
-|------------|----------------|
-| 🌾 Crop Disease Analysis & Detection | Python, Pandas, NumPy, Seaborn & Power BI Dashboard |
-| 🛒 Apna Mart Grocery Website | Grocery Shopping Website using HTML, CSS & JavaScript |
-| 🌐 Portfolio Website | Personal Portfolio showcasing skills and projects |
-| ⏰ Theme Clock | Analog & Digital Theme Clock using JavaScript |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🌾 Crop Disease Analytics | Data Analytics project using Python, Pandas, NumPy, Matplotlib, Seaborn & Power BI |
+| 💻 CodeAlpha C++ Projects | Banking System, Student Management System & Library Management System |
+| 📚 DSA Practice Programs | Data Structures & Algorithms practice in C++ |
+| 💡 C++ Programming | Logic Building & Programming Concepts |
+| 🐍 Python Workshop | Python & NumPy practice with mini projects |
+| 🌐 Portfolio Website | Personal Portfolio Website |
+| 🛒 Apna Mart Grocery Website | Responsive Grocery Shopping Website |
+| ⏰ Theme Clock | Analog & Digital Clock using HTML, CSS & JavaScript |
+| 💻 C Language Programs | Beginner to Advanced C Programming |
+
+---
+
+# 📂 GitHub Repositories
+
+- 🌾 Crop_Disease_Analytics--Project
+- 💻 CodeAlpha_C-
+- 📚 DSA-Practice-Programs
+- 💻 CPP_Program
+- 🐍 Workshop_Python-Numpy
+- 🐍 Python_Workshop
+- 🎨 Pattern_Printing_Practice-Programs
+- 🌐 My-Portfolio-Website
+- 🛒 Apna_Mart-Grocery
+- ⏰ Theme-Clock
+- 💻 C-Language
 
 ---
 
@@ -140,60 +135,64 @@ To analyze agricultural datasets, identify crop disease trends, visualize insigh
 
 # 📈 GitHub Contribution Graph
 
+<p align="center">
+
 [![Saijee's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-# 📌 Repository Highlights
-
-- 🐍 Python Programs
-- 📊 NumPy Practice
-- 📈 Data Analytics Projects
-- 💻 C Programming
-- ⚙️ C++ Programming
-- 🧠 DSA Practice
-- 🌐 Web Development
-- 🎨 Theme Clock
-- 🛒 Apna Mart Grocery Website
-- 📁 Portfolio Website
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-- 🐍 Python Programming
-- 📊 NumPy
-- 🐼 Pandas
-- 📈 Matplotlib
-- 🎨 Seaborn
+- 🐍 Python for Data Analytics
+- 📊 Exploratory Data Analysis (EDA)
 - 🗄 SQL
-- 📊 Power BI
+- 📈 Power BI Dashboard Development
 - 📉 Data Visualization
-- 📚 Data Analytics
-- 💻 DSA using C++
-- 🌱 Git & GitHub
+- 📚 Statistics for Data Analytics
+- 🤖 Machine Learning Fundamentals
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Become proficient in Python for Data Analytics
-- ✅ Master NumPy & Pandas
+- ✅ Build 30+ Data Analytics Projects
+- ✅ Master Python for Data Analytics
 - ✅ Learn Advanced SQL
-- ✅ Build Interactive Power BI Dashboards
-- ✅ Complete 25+ Data Analytics Projects
-- ✅ Strengthen DSA using C++
+- ✅ Create Interactive Power BI Dashboards
+- ✅ Strengthen Data Structures & Algorithms
 - ✅ Contribute to Open Source
-- ✅ Build a Professional Portfolio
 - ✅ Secure a Data Analyst Internship
+- ✅ Build a Professional Portfolio
 
 ---
 
-# 👀 Profile Views
+# 📈 Profile Views
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=saijeeitokar369&label=Profile+Views&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=saijeeitokar369&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:saijeeitokar509@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saijee-itokar-885490381">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saijeeitokar369">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
@@ -206,9 +205,14 @@ To analyze agricultural datasets, identify crop disease trends, visualize insigh
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for Visiting My GitHub Profile ⭐
+
 </h3>
 
 <p align="center">
-If you like my projects, don't forget to ⭐ them!
+
+If you like my work, don't forget to ⭐ my repositories!
+
 </p>
+```
