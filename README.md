@@ -78,14 +78,9 @@ Become a Data Analyst who transforms raw data into meaningful business insights.
 | Project | Description |
 |---------|-------------|
 | 🌾 Crop Disease Analytics | Complete Data Analytics project using Python & Power BI |
-| 🏦 CodeAlpha C++ Projects | Banking System, Student Management & Library Management |
-| 💻 DSA Practice Programs | C++ Data Structures & Algorithms |
-| 🧠 Pattern Printing Programs | C++ Logic Building Programs |
 | 🛒 Apna Mart Grocery Website | Responsive Website using HTML, CSS & JavaScript |
 | 🌐 Portfolio Website | Personal Portfolio |
 | ⏰ Theme Clock | Analog & Digital Clock |
-| 🐍 Python Workshop Projects | Python, NumPy & API Programs |
-| 💻 C Language Programs | Beginner to Advanced C Programs |
 
 ---
 
