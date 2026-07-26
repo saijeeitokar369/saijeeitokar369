@@ -160,6 +160,10 @@ Become a Data Analyst who transforms raw data into meaningful business insights.
 
 ✅ 30+ Data Analytics Projects
 
+✅ 50+ Hackerrank Questions
+
+✅ 50+ Leet Code Questions
+
 ✅ Master SQL
 
 ✅ Master Power BI
