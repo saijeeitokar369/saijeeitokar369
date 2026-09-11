@@ -130,12 +130,6 @@ Become a Data Analyst who transforms raw data into meaningful business insights.
 
 ---
 
-# 📈 GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 # 📚 What I'm Learning
 
 ✔ Advanced Python
