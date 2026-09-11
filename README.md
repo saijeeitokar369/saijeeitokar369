@@ -36,7 +36,7 @@
 - SQL
 - Power BI
 - Data Visualization
-- DSA in C++
+- DSA in C++ and Java
 
 🎯 Career Goal
 
