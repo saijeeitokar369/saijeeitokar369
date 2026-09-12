@@ -218,18 +218,26 @@ A web-based clock featuring both analog and digital time displays with a theme-b
 
 # 🎯 Current Learning Focus
 
+# 🎯 Current Learning Focus
+
+### 💻 Programming
+
 ```text
-💻 Programming
-│
+Programming
 ├── C
+│   └── Fundamentals
 ├── C++
 │   ├── OOP
+│   ├── Problem Solving
 │   └── DSA
+├── Java
+│   ├── Core Java
+│   ├── OOP
+│   └── Problem Solving
 └── Python
     ├── Programming
     ├── Pandas
     └── NumPy
-```
 
 ```text
 📊 Data Analytics
