@@ -206,6 +206,7 @@ A web-based clock featuring both analog and digital time displays with a theme-b
 |---|---|
 | 💻 C | Programming Fundamentals |
 | ⚙️ C++ | OOP • Logic Building • DSA |
+| ⚙️ Java | Logic Building • DSA |
 | 🐍 Python | Programming • Data Analytics |
 | 🗄️ SQL | Queries • Database Concepts |
 | 📊 Data Analytics | Pandas • NumPy • EDA |
