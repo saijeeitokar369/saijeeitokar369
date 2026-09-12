@@ -1,38 +1,54 @@
-# 👋 Hi, I'm Saijee Itokar
+<!-- ===================== ANIMATED INTRO ===================== -->
 
-### 🎓 B.Tech Data Analytics Student @ SAGE University Bhopal | 📊 Aspiring Data Analyst | 🐍 Python | C++ | SQL | Power BI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=7A5CFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saijee+Itokar+%F0%9F%91%8B;B.Tech+Data+Analytics+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>B.Tech Data Analytics @ SAGE University Bhopal</b>
+</p>
+
+<p align="center">
+  📊 Data Analytics &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🗄️ SQL &nbsp; | &nbsp; 📈 Power BI
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-💼 **LinkedIn** — [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+<p align="center">
 
-📧 **Email** — YOUR_EMAIL
+<a href="https://www.linkedin.com/in/saijee-itokar-885490381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-🌐 **Portfolio** — YOUR_PORTFOLIO_URL
+<a href="mailto:saijeeitokar509@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 🎓 B.Tech student specializing in **Computer Science & Data Analytics**
 
+📍 **Bhopal, Madhya Pradesh, India 🇮🇳**
+
 📊 Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
 
-💻 Building strong foundations in **Python, C++, C and SQL**
+💻 Building strong foundations in **C++, Python, Java, and SQL**
 
 📈 Exploring **Data Analytics, Data Visualization and Business Intelligence**
 
-🌐 Building responsive web projects using **HTML, CSS and JavaScript**
+🌐 Building web projects using **HTML, CSS and JavaScript**
 
-🧠 Practicing **Data Structures, logical thinking and problem solving**
+🧠 Practicing **DSA, logical thinking and problem solving**
 
-🤖 Exploring **Artificial Intelligence and Generative AI**
+🤖 Exploring **Generative AI and emerging technologies**
 
-🛠️ Regularly working with **VS Code, GitHub, Jupyter Notebook and Google Colab**
-
-🌱 Currently focused on improving my technical skills through projects and consistent practice.
+🛠️ Working with **VS Code, GitHub, Jupyter Notebook and Google Colab**
 
 ⚡ **Belief:** Learn → Build → Analyze → Improve
 
@@ -40,42 +56,58 @@
 
 # ⚡ Tech Stack
 
+<p align="center">
+
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
 
 ### 📊 Data Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+
+<br><br>
 
 ### 📈 Business Intelligence & Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+
+<br><br>
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 ### 🤖 AI & Learning
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<img src="https://skillicons.dev/icons?i=jupyter" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+
+<br><br>
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
 
 ---
 
@@ -83,12 +115,10 @@
 
 | # | Project | Description | Technology |
 |---|---|---|---|
-| 1 | 🌾 **Crop Disease Analytics** | Data analytics project focused on crop-related insights and visualization | Python • Pandas • NumPy • Power BI |
-| 2 | 🛒 **Apna Mart – Grocery Web App** | Responsive grocery website built with a focus on frontend development | HTML • CSS • JavaScript |
-| 3 | 🌐 **Personal Portfolio Website** | Personal portfolio showcasing my skills, projects and learning journey | HTML • CSS • JavaScript |
-| 4 | ⏰ **Theme Clock** | Analog and digital clock with a theme-based interface | HTML • CSS • JavaScript |
-| 5 | 💻 **DSA Practice** | Programming and problem-solving practice | C++ • Java |
-| 6 | 🐍 **Python Practice** | Python programming and logic-building practice | Python |
+| 1 | 🌾 **Crop Disease Analytics** | Agricultural data analytics and visualization project | Python • Pandas • NumPy • Power BI |
+| 2 | 🛒 **Apna Mart – Grocery Web App** | Responsive grocery website | HTML • CSS • JavaScript |
+| 3 | 🌐 **Personal Portfolio Website** | Personal portfolio showcasing my skills and projects | HTML • CSS • JavaScript |
+| 4 | ⏰ **Theme Clock** | Analog & digital clock web project | HTML • CSS • JavaScript |
 
 ---
 
@@ -96,16 +126,16 @@
 
 ## 🌾 Crop Disease Analytics
 
-A data analytics project developed to explore agricultural data and generate meaningful insights through data analysis and visualization.
+A Data Analytics project focused on agricultural data analysis and visualization.
 
-### Focus Areas:
+### Focus Areas
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis
 - Statistical analysis
 - Data visualization
-- Agricultural data insights
-- Interactive dashboard development
+- Agricultural insights
+- Interactive dashboards
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
@@ -113,13 +143,13 @@ A data analytics project developed to explore agricultural data and generate mea
 
 ## 🛒 Apna Mart – Grocery Web App
 
-A responsive grocery web application developed using frontend technologies.
+A responsive grocery web application built using frontend technologies.
 
-### Focus Areas:
+### Focus Areas
 
-- Responsive website design
+- Responsive UI
 - Product presentation
-- Interactive UI
+- Interactive interface
 - HTML structure
 - CSS styling
 - JavaScript functionality
@@ -130,7 +160,13 @@ A responsive grocery web application developed using frontend technologies.
 
 ## 🌐 Personal Portfolio Website
 
-A personal portfolio website created to showcase my skills, projects, achievements and learning journey.
+A personal portfolio website created to showcase my:
+
+- Skills
+- Projects
+- Achievements
+- Certifications
+- Learning journey
 
 **Tech:** HTML5 • CSS3 • JavaScript
 
@@ -138,7 +174,7 @@ A personal portfolio website created to showcase my skills, projects, achievemen
 
 ## ⏰ Theme Clock
 
-A simple web project featuring an analog and digital clock with a customizable theme-based interface.
+A web-based clock featuring both analog and digital time displays with a theme-based interface.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -148,59 +184,56 @@ A simple web project featuring an analog and digital clock with a customizable t
 
 | Area | Focus |
 |---|---|
-| 💻 C | Programming fundamentals |
-| ⚙️ C++ | OOP, logic building & problem solving |
-| 🐍 Python | Programming & Data Analytics |
-| 🗄️ SQL | Queries, databases & analytics |
-| 📊 Data Analytics | Pandas, NumPy, EDA & visualization |
-| 📈 Power BI | Dashboards & business insights |
-| 🌐 Web Development | HTML, CSS & JavaScript |
-| 🤖 AI | Generative AI & emerging technologies |
+| 💻 C | Programming Fundamentals |
+| ⚙️ C++ | OOP • Logic Building • DSA |
+| 🐍 Python | Programming • Data Analytics |
+| 🗄️ SQL | Queries • Database Concepts |
+| 📊 Data Analytics | Pandas • NumPy • EDA |
+| 📈 Power BI | Dashboards • Business Insights |
+| 🌐 Web Development | HTML • CSS • JavaScript |
+| 🤖 AI | Generative AI • LLM Exploration |
 
 ---
 
 # 🎯 Current Learning Focus
 
-### Programming
 ```text
-C
- └── Fundamentals
-
-C++
- ├── OOP
- ├── Problem Solving
- └── DSA
-
-Python
- ├── Programming
- ├── Pandas
- └── NumPy
+💻 Programming
+│
+├── C
+├── C++
+│   ├── OOP
+│   └── DSA
+└── Python
+    ├── Programming
+    ├── Pandas
+    └── NumPy
 ```
 
-### 📊 Data Analytics
 ```text
-Data Analytics
- ├── Data Cleaning
- ├── Exploratory Data Analysis
- ├── Pandas
- ├── NumPy
- ├── Data Visualization
- ├── SQL
- └── Power BI
+📊 Data Analytics
+│
+├── Data Cleaning
+├── Exploratory Data Analysis
+├── Pandas
+├── NumPy
+├── Data Visualization
+├── SQL
+└── Power BI
 ```
 
-### 🌐 Development
 ```text
-Web Development
- ├── HTML
- ├── CSS
- └── JavaScript
+🌐 Development
+│
+├── HTML
+├── CSS
+└── JavaScript
 ```
 
-### 🤖 Exploration
 ```text
-Artificial Intelligence
- └── Generative AI & LLMs
+🤖 Exploration
+│
+└── Generative AI & LLMs
 ```
 
 ---
@@ -211,69 +244,56 @@ Artificial Intelligence
 
 | Stage | Focus |
 |---|---|
-| 01 | Strengthen Programming Fundamentals |
+| 01 | Build Strong Programming Fundamentals |
 | 02 | Improve Logic & Problem Solving |
 | 03 | Learn Data Structures & Algorithms |
 | 04 | Analyze Real-World Data |
 | 05 | Build Practical Projects |
 | 06 | Improve Data Visualization |
-| 07 | Explore Machine Learning |
+| 07 | Learn Machine Learning Fundamentals |
 | 08 | Explore Generative AI |
 
 ---
 
 # 🎓 Education
 
-| Degree | Specialization | Status |
-|---|---|---|
-| 🎓 B.Tech | Computer Science & Data Analytics | Pursuing |
-
-**SAGE University Bhopal**
+| Degree | Specialization | Institution | Status |
+|---|---|---|---|
+| 🎓 B.Tech | Computer Science & Data Analytics | SAGE University Bhopal | Pursuing |
 
 ---
 
 # 🚀 2026 Roadmap
 
-- 📌 Strengthen C and C++ fundamentals
-- 📌 Improve Data Structures & Algorithms
-- 📌 Advance Python for Data Analytics
-- 📌 Strengthen SQL and database concepts
-- 📌 Build more end-to-end Data Analytics projects
-- 📌 Improve Power BI dashboard development
-- 📌 Learn Machine Learning fundamentals
-- 📌 Explore Generative AI and LLM applications
-- 📌 Contribute to Open Source
-- 📌 Build a strong professional portfolio
-- 📌 Prepare for Data Analyst internships
-
----
-
-# 💡 Developer Mindset
-
-> **Strong fundamentals create strong professionals.**
-
-**Learn.**
-
-**Build.**
-
-**Analyze.**
-
-**Debug.**
-
-**Improve.**
-
-**Repeat.** 🔁
+- ✅ 50+ GitHub Repositories
+- ✅ 30+ Data Analytics Projects
+- ✅ 50+ Hackerrank Questions
+- ✅ 50+ Leet Code Questions
+- ✅ Improve Data Structures & Algorithms
+- ✅ Advance Python for Data Analytics
+- ✅ Strengthen SQL and database concepts
+- ✅ Build end-to-end Data Analytics projects
+- ✅ Improve Power BI dashboards
+- ✅ Learn Machine Learning fundamentals
+- ✅ Explore Generative AI & LLM applications
+- ✅ Contribute to Open Source
+- ✅ Build a strong professional portfolio
+- ✅ Prepare for Data Analyst internships
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saijeeitokar369&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=saijeeitokar369&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saijeeitokar369&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saijeeitokar369&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -281,8 +301,25 @@ Artificial Intelligence
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saijeeitokar369&theme=tokyo-night&hide_border=true" />
+
 </p>
+
+---
+
+# 💡 Developer Mindset
+
+> **Strong fundamentals create strong professionals.**
+
+```text
+Learn.
+Build.
+Analyze.
+Debug.
+Improve.
+Repeat. 🔁
+```
 
 ---
 
@@ -294,6 +331,10 @@ Artificial Intelligence
 
 # ⭐ Thanks for Visiting My Profile!
 
-If you find my projects interesting, feel free to explore my repositories and leave a ⭐.
+<p align="center">
 
 ### 🚀 Building today. Learning every day. Growing with data.
+
+⭐ Feel free to explore my repositories!
+
+</p>
