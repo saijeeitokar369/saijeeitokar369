@@ -54,60 +54,44 @@
 
 ---
 
-# ⚡ Tech Stack
+⚡ Tech Stack
 
-<p align="center">
+💻 Programming Languages
 
-### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
-<br><br>
 
-### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql" />
 
-<br><br>
 
-### 📊 Data Analytics
+📊 Data Analytics
 
-<img src="https://skillicons.dev/icons?i=python" />
 
-<br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 
-<br><br>
 
-### 📈 Business Intelligence & Visualization
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+📈 Business Intelligence & Visualization
 
-<br><br>
 
-### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<br><br>
+🌐 Web Development
 
-### 🤖 AI & Learning
 
-<img src="https://skillicons.dev/icons?i=jupyter" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
 
-<br><br>
 
-### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+🤖 AI & Learning
 
-</p>
+
+
+
+🛠️ Tools
+
+
+
+
 
 ---
 
