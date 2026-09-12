@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;Data+Analytics+Student;Python+%7C+C%2B%2B+Developer;Power+BI+%7C+SQL+Enthusiast;Open+Source+Learner;Future+Data+Analyst+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saijee+Itokar;Data+Analytics+Student;Python+%7C+C%2B%2B+Learner;Power+BI+%7C+SQL+Enthusiast;Open+Source+Learner;Future+Data+Analyst+🚀" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
