@@ -62,12 +62,11 @@
 
 <br>
 
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
-
 <br>
 
 <h3 align="center">📊 Data Analytics & Visualization</h3>
