@@ -54,44 +54,80 @@
 
 ---
 
-⚡ Tech Stack
+# ⚡ Tech Stack
 
-💻 Programming Languages
+<p align="center">
+  <i>Technologies and tools I use to learn, build, analyze and create 🚀</i>
+</p>
 
+<br>
 
+<h3 align="center">💻 Programming Languages</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
 
+<br>
 
+<h3 align="center">📊 Data Analytics & Visualization</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
 
-📊 Data Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
+<br>
 
+<h3 align="center">🗄️ Database & Query</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
+<br>
 
+<h3 align="center">🌐 Web Development</h3>
 
-📈 Business Intelligence & Visualization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
+<br>
 
+<h3 align="center">🤖 AI & Data Science Tools</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
 
-🌐 Web Development
+<br>
 
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
+<br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js,git,github" />
+</p>
 
-🤖 AI & Learning
-
-
-
-
-🛠️ Tools
-
-
-
-
+<p align="center">
+  <b>💡 Learn • Build • Analyze • Improve 🚀</b>
+</p>
 
 ---
 
